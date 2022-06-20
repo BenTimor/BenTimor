@@ -6,7 +6,7 @@
 
  `console.log("Hey, Whassup?");`
 
-- Obviously, For backend I use NodeJS. For frontend I usually use React this days. But Svelte is fucking better and I wish I could use it more (But sadly, My manager doesn't feel the same).
+- Obviously, For backend I use NodeJS. For frontend I usually use React those days although Svelte is also really nice.
 
 `<Message> Hey! :) </Message>`
 
