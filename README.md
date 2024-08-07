@@ -26,7 +26,7 @@ print("It's so amazing I can just write 'print' and use it!")
 - I'm also into Rust. It's a fantastic language, and I hope more companies start adopting it. Though, I'm not that deep into low-level stuff.
 
 ```rust
-!println("I think I'm in love with macros.");
+println!("I think I'm in love with macros.");
 ```
 
 /* Sure, coding languages are awesome, but I'm also a proud GNU/Linux user (Arch ftw!), which automatically makes me a pro. Trust me. */
