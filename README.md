@@ -1,7 +1,6 @@
-
 # Hey! I'm Ben Timor! :)
 
-// I'm a full-stack developer from Israel ![Israel Flag](https://i.imgur.com/5WoWl1s.png).
+I'm a full-stack developer from Israel ![Israel Flag](https://i.imgur.com/5WoWl1s.png).
 
 If you're interested in my resume, you can check it out on my [website](https://bentimor.com) or find me on [LinkedIn](https://www.linkedin.com/in/bentimor).
 
@@ -29,7 +28,7 @@ print("It's so amazing I can just write 'print' and use it!")
 println!("I think I'm in love with macros.");
 ```
 
-/* Sure, coding languages are awesome, but I'm also a proud GNU/Linux user (Arch ftw!), which automatically makes me a pro. Trust me. */
+<!-- Sure, coding languages are awesome, but I'm also a proud GNU/Linux user (Arch ftw!), which automatically makes me a pro. Trust me. -->
 
 ## A bit about my projects
 
@@ -45,11 +44,15 @@ Straw is an HTML template engine that lets you create HTML pages dynamically. Th
 
 ---
 
-### [Trading212API (Python)](https://github.com/BenTimor/Trading212API) <img src=https://cdn1.iconfinder.com/data/icons/infographic-vol-7/512/10-512.png alt=graph height=20>
+### [Compact Console Log (CCL)](https://github.com/BenTimor/Compact-Console-Log) <img src="https://static.thenounproject.com/png/563031-200.png" alt="log" height="20">
 
-[Trading212](https://www.trading212.com) is an awesome broker. But the first thing any dev wants from a broker is an API.
+CCL (Compact Console Log) is a Visual Studio Code extension designed to simplify debugging in JavaScript and TypeScript by streamlining console logging.
 
-Since Trading212 doesn’t have an official API, I created an unofficial one based on Selenium.
+**Quick Overview**:
+- Highlight the code you want to log.
+- Press `Ctrl + Alt + L` to log your selected code to the console.
+- Execute your code and observe the output in the console.
+- To remove the log, just press `Ctrl + Alt + L` on the logged statement. You can also remove all logs at once by pressing `Ctrl + Alt + K`.
 
 ---
 
