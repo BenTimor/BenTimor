@@ -32,18 +32,6 @@ println!("I think I'm in love with macros.");
 
 ## A bit about my projects
 
-### [Straw (Python)](https://github.com/BenTimor/Straw) / [IronStraw (Rust)](https://github.com/BenTimor/IronStraw) <img src=https://static.thenounproject.com/png/563031-200.png alt=straw height=20>
-
-Straw has only two goals.
-
-1. I wanted a project that was **easy enough** to get into a new programming language, but **advanced enough** to actually learn something. <br />
-
-Straw is an HTML template engine that lets you create HTML pages dynamically. The Straw language is very similar to modern programming ones but simpler and sometimes borrows features from others.
-
-2. I needed a template engine for my Flask projects. Plain HTML can be a real headache.
-
----
-
 ### [Compact Console Log (CCL)](https://github.com/BenTimor/Compact-Console-Log) <img src="https://static.thenounproject.com/png/563031-200.png" alt="log" height="20">
 
 CCL (Compact Console Log) is a Visual Studio Code extension designed to simplify debugging in JavaScript and TypeScript by streamlining console logging.
@@ -53,6 +41,18 @@ CCL (Compact Console Log) is a Visual Studio Code extension designed to simplify
 - Press `Ctrl + Alt + L` to log your selected code to the console.
 - Execute your code and observe the output in the console.
 - To remove the log, just press `Ctrl + Alt + L` on the logged statement. You can also remove all logs at once by pressing `Ctrl + Alt + K`.
+
+---
+
+### [Straw (Python)](https://github.com/BenTimor/Straw) / [IronStraw (Rust)](https://github.com/BenTimor/IronStraw) <img src=https://static.thenounproject.com/png/563031-200.png alt=straw height=20>
+
+Straw has only two goals.
+
+1. I wanted a project that was **easy enough** to get into a new programming language, but **advanced enough** to actually learn something. <br />
+
+Straw is an HTML template engine that lets you create HTML pages dynamically. The Straw language is very similar to modern programming ones but simpler and sometimes borrows features from others.
+
+2. I needed a template engine for my Flask projects. Plain HTML can be a real headache.
 
 ---
 
